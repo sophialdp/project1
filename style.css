@@ -13,10 +13,6 @@ body {
 
 body {
     background-color: lightblue; /* Using a color name */
-    /* Alternatively, you could use a HEX value: */
-    /* background-color: #ADD8E6; */
-    /* Or an RGB value: */
-    /* background-color: rgb(173, 216, 230); */
 }
 
 header {
